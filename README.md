@@ -1,6 +1,8 @@
 # android-mainframer
 Just an experiment with Android mainframer for home desktop
 
+**In fact, this repo is only my personal readme and shouldn't be used by anyone :D.**
+
 Mainframer repository - https://github.com/buildfoundation/mainframer
 
 I've used the second version of mainframer. But this docker image can be used for 3 version too.
@@ -15,5 +17,3 @@ Also, it's a personal mainframe that's why I use only one user inside docker and
 This article was extremely helpful to understand the concept https://medium.com/@balachandarkm/speed-up-android-builds-with-mainframer-docker-container-in-a-powerful-remote-machine-ce7b9e122a49 
 
 But Image from this article haven't worked for me from the first try, and my purpose was to understand how exactly it works, that's why I build my own image.
-
-In fact, this repo is only my personal readme and shouldn't be used by anyone :D.
