@@ -3,6 +3,8 @@ Just an experiment with Android mainframer for home desktop
 
 **In fact, this repo is only my personal readme and shouldn't be used by anyone :D.**
 
+And it's work. With i7-9700 - 6 CPUs and 8 GB of RAM avaliable for docker - it descrease time of clean build for application with pretty huge database and 20 modules it takes less than 5 minutes instead of 20 on my 2,9 GHz Dual-Core Intel Core i5, 16 GB RAM macbook.
+
 Mainframer repository - https://github.com/buildfoundation/mainframer
 
 I've used the second version of mainframer. But this docker image can be used for 3 version too.
